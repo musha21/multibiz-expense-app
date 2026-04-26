@@ -1,0 +1,6 @@
+{
+  "name": "Lankan Business Ledger",
+  "description": "Clear bookkeeping and performance tracking for Sri Lankan business owners, featuring receipt scanning and financial insights.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["FINANCE", "AI_INSIGHTS", "BOOKKEEPING"]
+}
